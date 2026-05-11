@@ -115,7 +115,7 @@ python BBWorkspace.py external tesla
 Clone the repository:
 
 ```bash
-git clone https://github.com/0xShadowVoid/REPOSITORY.git
+git clone https://github.com/0xShadowVoid/BBWorkspace.git
 ```
 
 Enter the directory:
