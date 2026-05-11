@@ -121,7 +121,7 @@ git clone https://github.com/0xShadowVoid/BBWorkspace.git
 Enter the directory:
 
 ```bash
-cd REPOSITORY
+cd BBWorkspace
 ```
 
 Run the script:
